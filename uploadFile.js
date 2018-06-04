@@ -1,5 +1,5 @@
 // upload file in specific folder
-var folderId = '1ZTCEjXSIH8NoB5xpo1AD32wBrV6bpsKI';
+var folderId = 'enter here your folder id';
 var fileMetadata = {
   'name': 'text.txt',
   parents: [folderId]
