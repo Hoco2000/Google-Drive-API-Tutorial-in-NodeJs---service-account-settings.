@@ -23,7 +23,7 @@ https://developers.google.com/drive/api/v3/reference
 https://tanaikech.github.io/post
 
 
-/***** Bonus - documentations for GOAP groups *****/
+/***** Bonus - some usefull documentations *****/
 
 // error handling in Node.js http://thenodeway.io/posts/understanding-error-first-callbacks/?utm_source=fredkschott.com&utm_medium=referral
 
