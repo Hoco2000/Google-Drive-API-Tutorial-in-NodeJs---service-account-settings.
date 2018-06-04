@@ -1,7 +1,7 @@
 /***** links - websites requirements ******/
 
 // Node.js's Javascript runtime 
-https://nodejs.org/en/download/
+https://nodejs.org/en/download
 
 // Atom editor  
 https://atom.io
