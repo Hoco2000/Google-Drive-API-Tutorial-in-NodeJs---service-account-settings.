@@ -1,12 +1,17 @@
 /***** links - websites requirements ******/
 
+// Node.js's Javascript runtime
+https://nodejs.org/en/download/
+
+// Atom editor 
+https://atom.io
+
 // is Google's site for software development tools,
 // application programming interfaces (APIs),
 // and technical resources
 https://console.developers.google.com
 
-// scopes documentation
-https://developers.google.com/identity/protocols/googlescopes // # Drive API, v3
+
 
 
 /***** readings - Google API documentation *****/
@@ -14,6 +19,9 @@ https://developers.google.com/identity/protocols/googlescopes // # Drive API, v3
 // article which explain
 // in plain words the google Apps functionment.
 https://medium.com/@abhimanyuPathania/google-drive-service-accounts-and-nodejs-a038b8ec482f
+
+// scopes documentation
+https://developers.google.com/identity/protocols/googlescopes // # Drive API, v3
 
 // reference parameters for API calls
 https://developers.google.com/drive/api/v3/reference
