@@ -1,5 +1,5 @@
 // list file in speciifcs folder
-var parents=  ""
+var parents=  "enter here the folder you target"
 drive.files.list({
 
     auth: jwtClient,
