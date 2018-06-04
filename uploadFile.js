@@ -13,7 +13,7 @@ drive.files.create({
   resource: fileMetadata,
   media: media,
   fields: 'id'
-}, function (err, file) {
+}, function(err, file) {
   if (err) {
     // Handle error
     console.error(err);
